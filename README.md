@@ -1,6 +1,7 @@
 # Heta-Datain-Assignment
 Assignment for the post of SQL Database Operator at Heta Datain
 
+# To read the data from CSV files using pandas in Python
 import pandas as pd
 
 # Read the "data.csv" file
